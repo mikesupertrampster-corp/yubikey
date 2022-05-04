@@ -2,6 +2,8 @@
 
 Verify Key: https://www.yubico.com/genuine/
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/96dc969b9b364ae48552a90e9d12828b)](https://www.codacy.com/gh/mikesupertrampster-corp/yubikey/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mikesupertrampster-corp/yubikey&amp;utm_campaign=Badge_Grade)
+
 ###### Enable Smart Card Daemon
 
 ```nix
